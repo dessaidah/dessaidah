@@ -1,4 +1,5 @@
-## Hi there 👋
+![Dessy Banner](https://github.com/dessaidah/dessaidah/blob/main/Baking%20Data%20%26%20Business%20Insights.png)
+## Hi there! 👋
 
 - 🔭 Working on:  
   Data analytics projects (RFM • Funnel • Cohort • ROI • A/B Test)
