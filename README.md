@@ -17,7 +17,7 @@ Data analytics, visualization best practices, funnel & cohort analysis, RFM segm
 
 📫 How to reach me:
 
-LinkedIn: [Linkedin](https://www.linkedin.com/in/dessysaidah/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/dessysaidah/)
 
 Email: dessynasution2000@gmail.com
 
