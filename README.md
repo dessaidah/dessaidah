@@ -1,28 +1,25 @@
 ## Hi there 👋
 
-🔭 I’m currently working on:
-Building data analytics portfolio projects, including RFM segmentation, funnel analysis, cohort analysis, and marketing ROI dashboards for retail & e-commerce datasets.
+- 🔭 Working on:  
+  Data analytics projects (RFM • Funnel • Cohort • ROI • A/B Test)
 
-🌱 I’m currently learning:
-Advanced Python for data science, SQL window functions, and BI dashboard design in Power BI and Tableau.
+- 🌱 Learning:  
+  Python • SQL • Power BI • Tableau • ML basics
 
-👯 I’m looking to collaborate on:
-Data analysis projects, dashboard design, A/B testing studies, or anything involving customer insights and business intelligence.
+- 👯 Collab on:  
+  Retail/e-commerce datasets & dashboard storytelling
 
-🤔 I’m looking for help with:
-Improving my machine learning skills and preparing for data analyst job interviews in consumer goods/retail industries.
+- 🤔 Need help with:  
+  Machine learning confidence + portfolio improvement
 
-💬 Ask me about:
-Data analytics, visualization best practices, funnel & cohort analysis, RFM segmentation, Python/SQL tips, and even entrepreneurship—I also run a home-based bakery!
+- 💬 Ask me about:  
+  Data viz, customer segmentation, dashboards, entrepreneurship, pastries
 
-📫 How to reach me:
+- 📫 Reach me at:  
+  dessynasution2000@gmail.com • [LinkedIn](https://www.linkedin.com/in/dessysaidah)
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/dessysaidah/)
+- 😄 Pronouns:  
+  She/Her
 
-Email: dessynasution2000@gmail.com
-
-😄 Pronouns:
-She/Her
-
-⚡ Fun fact:
-I studied Agribusiness but pivoted into data analytics—combining my love for problem-solving, business insights, and even pastry creativity into one journey!
+- ⚡ Fun fact:  
+  I can bake pastries AND build dashboards with the same level of passion!
